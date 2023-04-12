@@ -1,1 +1,2 @@
-# Flappy-Bird
+# Description
+This game is made using Pygame, a set of Python modules designed for creating video games. The player uses the SpaceBar/ArrowUp to make the bird flap its wings and gain altitude, and gravity causes the bird to fall if the SpaceBar/ArrowUp is not pressed. The game ends when the bird collides with a pipe or the ground, and the player's score is based on the number of pipes the bird successfully passes through.
